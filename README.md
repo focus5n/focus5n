@@ -4,15 +4,6 @@
     <br />
 </div>
 
-<div id="story" align="center" font-size=16px>
-    <p>초보 백엔드 개발자입니다.</p>
-    <p>자바를 배운 뒤, 스프링 MVC 모델로 구현하는 방법을 익히고 있습니다!</p>
-    <br />
-    <p>6월 순항 중...이었으나 Spring Showcase는 파고들기 넘나 어렵다...</p>
-    <br />
-    <br />
-</div>
-
 <div id="tech" align="center">
     <hr align="center" width=45% />
     <div id="main">
