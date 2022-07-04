@@ -4,6 +4,10 @@
     <br />
 </div>
 
+<div id="talk" align="center">
+    <p>폭풍전야</p>
+</div>
+
 <div id="tech" align="center">
     <hr align="center" width=45% />
     <div id="main">
