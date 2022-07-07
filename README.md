@@ -5,7 +5,7 @@
 </div>
 
 <div id="talk" align="center">
-    <p>폭풍전야</p>
+    <p>업무파악이 겁나게 빡세네</p>
 </div>
 
 <div id="tech" align="center">
