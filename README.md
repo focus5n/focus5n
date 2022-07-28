@@ -5,7 +5,7 @@
 </div>
 
 <div id="talk" align="center">
-    <p>업무파악이 겁나게 빡세네</p>
+    <p>SPC 서버 API 개발</p>
 </div>
 
 <div id="tech" align="center">
