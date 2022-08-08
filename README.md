@@ -6,6 +6,7 @@
 
 <div id="talk" align="center">
     <p>SPC 서버 API 개발</p>
+    <p>지금은 S-OIL 프론트엔드 개발</p>
 </div>
 
 <div id="tech" align="center">
