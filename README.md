@@ -6,7 +6,7 @@
 
 <div id="talk" align="center">
     <p>SPC 서버 API 개발</p>
-    <p>지금은 S-OIL 프론트엔드 개발</p>
+    <p>S-OIL CRM 관리자 페이지 및, S-OIL 보너스카드 프론트엔드 개발</p>
 </div>
 
 <div id="tech" align="center">
