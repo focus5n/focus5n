@@ -26,5 +26,6 @@
     <div id="tool">
         <img src="https://img.shields.io/badge/VSCode-E6E6E6?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
         <img src="https://img.shields.io/badge/IDEA-E6E6E6?style=for-the-badge&logo=IntelliJIDEA&logoColor=black">
+        <img src="https://img.shields.io/badge/Eclipse-E6E6E6?style=for-the-badge&logo=Eclipse&logoColor=black">
     </div>
 </div>
