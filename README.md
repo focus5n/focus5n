@@ -20,6 +20,7 @@
     <div id="sub">
         <img src="https://img.shields.io/badge/JavaScript-E6E6E6?style=for-the-badge&logo=javascript&logoColor=yellow">
         <img src="https://img.shields.io/badge/React-E6E6E6?style=for-the-badge&logo=react&logoColor=purple">
+        <img src="https://img.shields.io/badge/React-E6E6E6?style=for-the-badge&logo=JQuery&logoColor=purple">
     </div>
     <hr align="center" width=45% />
     <div id="tool">
