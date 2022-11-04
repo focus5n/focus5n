@@ -6,14 +6,16 @@
 
 <div id="hope" align="center">
     <p style="font: 24px;">단순하고 실용적이되 지속적으로 고치고 다듬을 수 있는 프로그램을 제작하고 싶습니다.</p>
-    <p>우선은 요구사항을 충족하는 프로그램을 제작할 정도로 실력을 쌓고 싶습니다.</p>
-    <p>하지만 거기에 멈추고 싶지 않습니다.</p>
-    <p>당사자도 자신이 무엇을 원하는지 모르는 경우가 많으니까요.</p>
+    <br />
+    <br />
 </div>
 
 <div id="talk" align="center">
+    <p>프로젝트</p>
     <p>SPC 서버 API 개발</p>
     <p>S-OIL CRM 관리자 페이지 및, S-OIL 보너스카드 프론트엔드 개발</p>
+    <br />
+    <br />
 </div>
 
 <div id="tech" align="center">
