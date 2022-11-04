@@ -33,9 +33,9 @@
         <img src="https://img.shields.io/badge/JQuery-E6E6E6?style=for-the-badge&logo=JQuery&logoColor=purple">
     </div>
     <hr align="center" width=45% />
-    <div id="tool">
-        <img src="https://img.shields.io/badge/VSCode-E6E6E6?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
-        <img src="https://img.shields.io/badge/IDEA-E6E6E6?style=for-the-badge&logo=IntelliJIDEA&logoColor=black">
-        <img src="https://img.shields.io/badge/Eclipse-E6E6E6?style=for-the-badge&logo=Eclipse&logoColor=black">
+    <div id="devOps">
+        <img src="https://img.shields.io/badge/docker-E6E6E6?style=for-the-badge&logo=docker&logoColor=blue">
+        <img src="https://img.shields.io/badge/AWS-E6E6E6?style=for-the-badge&logo=AWS&logoColor=black">
+        <img src="https://img.shields.io/badge/Kubernetes-E6E6E6?style=for-the-badge&logo=Kubernetes&logoColor=black">
     </div>
 </div>
