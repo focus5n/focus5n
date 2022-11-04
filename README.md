@@ -11,7 +11,6 @@
 </div>
 
 <div id="talk" align="center">
-    <p>프로젝트</p>
     <p>SPC 서버 API 개발</p>
     <p>S-OIL CRM 관리자 페이지 및, S-OIL 보너스카드 프론트엔드 개발</p>
     <br />
