@@ -1,5 +1,6 @@
 <div id="profile" align="center">
     <h2>Hello, I'm Hans!</h2>
+    <h3>백엔드에 강점을 갖는 프로그래머를 지향합니다!</h3>
     <br />
     <br />
 </div>
