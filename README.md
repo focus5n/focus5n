@@ -14,7 +14,7 @@
 <div id="talk" align="center">
     <p>SPC 서버 API 개발 (DONE)</p>
     <p>S-OIL CRM 관리자 페이지, S-OIL 보너스카드 프론트엔드 개발 (DONE) </p>
-    <p>NH 채무관리 시스템 개발 (NOW)</p>
+    <p>농협중앙회 채무관리 시스템 개발 (경제, 유통) (NOW)</p>
     <br />
     <br />
 </div>
