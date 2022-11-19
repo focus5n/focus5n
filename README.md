@@ -38,6 +38,5 @@
     <div id="devOps">
         <img src="https://img.shields.io/badge/docker-E6E6E6?style=for-the-badge&logo=docker&logoColor=blue">
         <img src="https://img.shields.io/badge/AWS-E6E6E6?style=for-the-badge&logo=AWS&logoColor=black">
-        <img src="https://img.shields.io/badge/Kubernetes-E6E6E6?style=for-the-badge&logo=Kubernetes&logoColor=black">
     </div>
 </div>
