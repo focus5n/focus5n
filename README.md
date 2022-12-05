@@ -1,6 +1,7 @@
 <div id="profile" align="center">
     <h2>Hello, I'm Hans!</h2>
     <h3>지속적으로 공부 중...</h3>
+    <p>하면 할수록 기본기가 중요하다는 것이 느껴진다. 특히 데이터가 현재 어디있는지 파악하려면 OSI 7 Layers 이걸 정말 은근히 많이 쓰게 된다.</p>
     <br />
     <br />
 </div>
