@@ -1,14 +1,12 @@
 <div id="profile" align="center">
     <h2>Hello, I'm Hans!</h2>
     <h3>지속적으로 공부 중...</h3>
-    <p>하면 할수록 기본기가 중요하다는 것이 느껴진다.</p>
-    <p>특히 데이터가 현재 어디있는지 파악하려면 OSI 7 Layers 이걸 정말 은근히 많이 쓰게 된다.</p>
     <br />
     <br />
 </div>
 
 <div id="hope" align="center">
-    <p style="font: 24px;">단순하고 실용적이되 지속적으로 고치고 다듬을 수 있는 프로그램을 제작하고 싶습니다.</p>
+    <p style="font: 24px;">깔끔하되 지속적으로 고치고 다듬을 수 있는 프로그램을 제작하고 싶습니다.</p>
     <br />
     <br />
 </div>
@@ -16,7 +14,7 @@
 <div id="talk" align="center">
     <p>SPC 서버 API 개발 (DONE)</p>
     <p>S-OIL CRM 관리자 페이지, S-OIL 보너스카드 프론트엔드 개발 (DONE) </p>
-    <p>농협중앙회 사후채권 업무 프론트, 백엔드 시스템 개발 (경제) (NOW)</p>
+    <p>농협중앙회 사후채권 업무 프론트, 백엔드 시스템 개발 () (NOW)</p>
     <br />
     <br />
 </div>
