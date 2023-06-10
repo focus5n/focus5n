@@ -7,7 +7,6 @@
 </div>
 
 <div id="hope" align="center">
-    <p style="font: 24px;">서로서로 알지 못해도 홀로 작동이 가능한 프로그램의 집합체... 참 멋진 사상이라고 봅니다.</p>
     <br />
     <br />
 </div>
@@ -15,7 +14,7 @@
 <div id="talk" align="center">
     <p>SPC 서버 API 개발 (DONE)</p>
     <p>S-OIL CRM 관리자 페이지, S-OIL 보너스카드 프론트엔드 개발 (DONE) </p>
-    <p>농협중앙회 사후채권 업무 프론트, 백엔드 시스템 개발 (사후채권, 채권관리) (NOW)</p>
+    <p>농협중앙회 사후채권 업무 프론트, 백엔드 시스템 개발 (사후채권, 채권관리, 채무관리) (NOW)</p>
     <br />
     <br />
 </div>
