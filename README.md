@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/MyBatis-E6E6E6?style=for-the-badge&logo=MyBatis&logoColor=red">
         <img src="https://img.shields.io/badge/JPA-E6E6E6?style=for-the-badge&logo=JPA&logoColor=red">
         <img src="https://img.shields.io/badge/Oracle-E6E6E6?style=for-the-badge&logo=oracle&logoColor=red">
-        <img src="https://img.shields.io/badge/MariaDB-E6E6E6?style=for-the-badge&logo=oracle&logoColor=red">
+        <img src="https://img.shields.io/badge/MariaDB-E6E6E6?style=for-the-badge&logo=mariaDB&logoColor=red">
     </div>
     <hr align="center" width=45% />
     <div id="sub">
